@@ -19,3 +19,9 @@ TBD
 
 TBD
 ![edgepid.service](docs/images/edgepid_service.png)
+
+### Reference
+
+* [Custom Boot Image: https://github.com/shadow-racer/pi-gen](https://github.com/shadow-racer/pi-gen)
+* [EdgePi Agent: https://github.com/shadow-racer/edge-pi-agent](https://github.com/shadow-racer/edge-pi-agent)
+* [Telemtry Hub](https://github.com/shadow-racer/telemetry-hub)
